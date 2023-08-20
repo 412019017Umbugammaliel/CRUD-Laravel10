@@ -1,0 +1,27 @@
+•	Untuk menu awalnya disuruh login/register terlebih dahulu :
+ 
+•	Saya menggunakan template dari Admin :
+ 
+
+
+
+•	Tampilan awal dari aplikasi:
+ 
+•	Kemudian pada bagian input buku, bisa melakukan create data pada buku:
+ 
+•	Pada tampilan data buku, terdapat fungsi edit dan delete:
+  
+ 
+•	Kemudian pada bagian input anggota, bisa melakukan create data pada anggota:
+ 
+
+•	Pada tampilan data anggota, terdapat fungsi edit dan delete:
+ 
+ 
+
+•	Pada bagian peminjaman diambil dari ID_Buku dan ID_Anggota:
+ 
+
+•	Pada tampilan data peminjaman, terdapat fungsi detail dan delete:
+ 
+ 
